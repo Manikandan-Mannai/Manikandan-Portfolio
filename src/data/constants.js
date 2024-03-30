@@ -24,7 +24,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Manikandan-Mannai",
   resume:
-    "https://drive.google.com/file/d/1vsPNKVtPfh5gWUsT0hb5s-Pg64r0DftQ/view",
+    "https://firebasestorage.googleapis.com/v0/b/blog-application-16fb6.appspot.com/o/Images%2Fcd0000ef-a405-4dbf-8724-f8cdf94c129a?alt=media&token=0be3116e-b962-4f37-a8a7-2ca32217a776",
   linkedin: "https://www.linkedin.com/in/manikandan-a-82a14b27b/",
   twitter: "https://twitter.com/Manikandan2627",
   insta: "https://www.instagram.com/codewizpro/",
