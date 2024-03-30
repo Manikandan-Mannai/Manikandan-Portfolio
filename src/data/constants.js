@@ -262,8 +262,8 @@ export const projects = [
       "Styled Component",
     ],
     category: "web app",
-    github: "https://github.com/Manikandan-Mannai/expense-tracker-firebase",
-    webapp: "https://expense-tracker-5c2ad.web.app/",
+    github: "https://github.com/Manikandan-Mannai/Genesis-Registration",
+    webapp: "https://genesis-bd1h.onrender.com/",
   },
   {
     id: 9,
@@ -277,8 +277,8 @@ export const projects = [
       "Styled Component",
     ],
     category: "web app",
-    github: "https://github.com/Manikandan-Mannai/expense-tracker-firebase",
-    webapp: "https://expense-tracker-5c2ad.web.app/",
+    github: "https://github.com/Manikandan-Mannai/kllifespace",
+    webapp: "https://kllifespaces.com",
   },
   {
     id: 9,
